@@ -11,11 +11,13 @@ print输出函数输出hello world
   str2 = 2016
   print(str1+str2)`
 
-# Header 1
-## Header 2
-### Header 3
+#阿里云天池训练营笔记
+##task
+###基础知识
 
-- Bulleted
+- 变量：值会改变的量
+such：`num1 = 20`
+
 - List
 
 1. Numbered
