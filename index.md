@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## 欢迎来到小马的博客
 
-You can use the [editor on GitHub](https://github.com/ymu-xiaoma/ymu-xm.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###个人简介
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
