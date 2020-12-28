@@ -3,12 +3,13 @@
 ###个人简介
 
 
-### Markdown
-
-Markdown是一种轻巧且易于使用的语法，可用于样式化您的文字。它包括以下约
+### python基础语法
+print输出函数输出hello world
 `print("hello world")`
-降价
-Syntax highlighted code block
+-输出变量
+-`str1 = 4
+  str2 = 2016
+  print(str1+str2)`
 
 # Header 1
 ## Header 2
