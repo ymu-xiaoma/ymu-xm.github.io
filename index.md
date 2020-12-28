@@ -6,8 +6,8 @@
 ### python基础语法
 print输出函数输出hello world
 `print("hello world")`
--输出变量
--`str1 = 4
+1.输出变量
+ `str1 = 4
   str2 = 2016
   print(str1+str2)`
 
